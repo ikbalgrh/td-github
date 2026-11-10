@@ -3,3 +3,6 @@
   return(resultat)
 }"
 addition(0, 0)
+
+addition(2,2)
+
