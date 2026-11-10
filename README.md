@@ -10,10 +10,9 @@
 
 - Ikbal: Chief Repository Officer & official button-clicker
 - Oriane: Professional merge-conflict survivor
-- Farah: Has typed `git push` with full confidence at least once
+- Farah: Has created addition
 - Enzo: Thinks `git reset --hard` is a gym exercise 🏋️
-- Julian: Writes commit messages like "fixed stuff" and "ok now it works for real"
-- Erene: Has 47 tabs of Stack Overflow open at all times 🔍
+
 
 ## 🎯 Our Mission (should we choose to accept it)
 
