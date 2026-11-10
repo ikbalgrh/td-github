@@ -16,10 +16,7 @@ Coucou les loulous, c'est Enzo. J'ai transmis un nouveau fichier multiplication.
 - Oriane: Professional merge-conflict survivor
 - Farah: Has created addition
 - Enzo: Thinks `git reset --hard` is a gym exercise 🏋️
-<<<<<<< HEAD
-=======
 
->>>>>>> b724838068235f58bcf2a441f0835d80415bd1a0
 
 ## 🎯 Our Mission (should we choose to accept it)
 
