@@ -1,5 +1,9 @@
 # 🚀 td-github
 
+
+Coucou les loulous, c'est Enzo. J'ai transmis un nouveau fichier multiplication.R pour faire des multiplications (c'est dans le nom). Bisous
+
+
 > *"It works on my machine."* — every developer, ever
 
 ***td-github*** is a **state-of-the-art**, *award-losing* project built by me and my fellow ~~sleep-deprived~~ **smart** engineering classmates to learn how to use GitHub without accidentally deleting everything. This is not a real project, we are making stuff up 🤫.
@@ -10,8 +14,12 @@
 
 - Ikbal: Chief Repository Officer & official button-clicker
 - Oriane: Professional merge-conflict survivor
-- Farah: Has typed `git push` with full confidence at least once
+- Farah: Has created addition
 - Enzo: Thinks `git reset --hard` is a gym exercise 🏋️
+<<<<<<< HEAD
+=======
+
+>>>>>>> b724838068235f58bcf2a441f0835d80415bd1a0
 
 ## 🎯 Our Mission (should we choose to accept it)
 
@@ -59,4 +67,8 @@ Expected TD success rate: $P(\text{success}) \approx 1$ 🎓
 
 <p align="center">Made with &#128170; and a questionable amount of <b>Ctrl+Z</b></p>
 
+
 Oyez,Oyez,C'est Ikbaaaaal <3, j'ai suprimé les noms de julien et erene, et more importantly I added ma fonction de soustractionnn, Githubestmagnifiquetionellement >3
+
+#Division= a/b
+

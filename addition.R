@@ -2,4 +2,7 @@
   resultat <- a + b
   return(resultat)
 }"
-addition(5,3)
+addition(0, 0)
+
+addition(2,2)
+
