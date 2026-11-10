@@ -64,3 +64,5 @@ Expected TD success rate: $P(\text{success}) \approx 1$ 🎓
 ---
 
 <p align="center">Made with &#128170; and a questionable amount of <b>Ctrl+Z</b></p>
+
+#Division= a/b
