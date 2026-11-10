@@ -9,7 +9,7 @@
 ## 👩‍💻 The Dream Team
 
 - Ikbal: Chief Repository Officer & official button-clicker
-- Orianne: Professional merge-conflict survivor
+- Oriane: Professional merge-conflict survivor
 - Farah: Has typed `git push` with full confidence at least once
 - Enzo: Thinks `git reset --hard` is a gym exercise 🏋️
 - Julian: Writes commit messages like "fixed stuff" and "ok now it works for real"
