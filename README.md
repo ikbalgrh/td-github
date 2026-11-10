@@ -12,8 +12,6 @@
 - Oriane: Professional merge-conflict survivor
 - Farah: Has typed `git push` with full confidence at least once
 - Enzo: Thinks `git reset --hard` is a gym exercise 🏋️
-- Julian: Writes commit messages like "fixed stuff" and "ok now it works for real"
-- Erene: Has 47 tabs of Stack Overflow open at all times 🔍
 
 ## 🎯 Our Mission (should we choose to accept it)
 
@@ -60,3 +58,5 @@ Expected TD success rate: $P(\text{success}) \approx 1$ 🎓
 ---
 
 <p align="center">Made with &#128170; and a questionable amount of <b>Ctrl+Z</b></p>
+
+Oyez,Oyez,C'est Ikbaaaaal <3, j'ai suprimé les noms de julien et erene, et more importantly I added ma fonction de soustractionnn, Githubestmagnifiquetionellement >3
